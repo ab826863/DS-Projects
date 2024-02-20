@@ -11,49 +11,49 @@ We have total of 5 different datasources for baseball, interest rates, and stock
 **Data Source: Stathead** 
 Stathead is a comprehensive sports statistics and research tool that provides in-depth data analysis and insights across various sports. It is part of the Sports Reference family, known for its detailed databases of sports history, records, and statistics. Regarding baseball performance statistics relevant to our project, it contains both hitting and pitching data for each team.
 
-location: https://stathead.com/baseball/
+:triangular_flag_on_post: location: https://stathead.com/baseball/
 
-Format: CSV
+:card_index: Format: CSV
 
-Access Mehtod: Direct Download
+:key: Access Mehtod: Direct Download
 
 **Data Source: Baseball Prospectus**
 Baseball Prospectus is a leading resource in the baseball community known for its in-depth analysis, statistics, and insights into the game. It is known for its publication, the Baseball Prospectus Annual, which features projections, analyses and essays on various aspects of baseball. For our project, we are utilizing payroll information from 2000-2020.
 
-location: https://legacy.baseballprospectus.com/compensation/
+:triangular_flag_on_post: location: https://legacy.baseballprospectus.com/compensation/
 
-Format: HTML -> Dataframe
+:card_index: Format: HTML -> Dataframe
 
-Access Mehtod: BS4 Webscrape
+:key: Access Mehtod: BS4 Webscrape
 
 
 **Data Source: SteveTheUmp**
 SteveTheUmp.com is a niche website focused on the world of umpiring in baseball. It serves as the go-to resource for umpires and officiating fanatics. For our use case, it allows us to easily scrape payroll data, specifically for the years 1998, 1999, and 2021-2023.
 
-location: https://www.stevetheump.com/Payrolls.htm
+:triangular_flag_on_post: location: https://www.stevetheump.com/Payrolls.htm
 
-Format: HTML -> Dataframe
+:card_index: Format: HTML -> Dataframe
 
-Access Mehtod: BS4 Web Scraping
+:key: Access Mehtod: BS4 Web Scraping
 
 
 **Data Source: Yahoo Finance API**
 Yahoo Finance provides stock market data through its free API library integrated in Python. It covers historical stock market data for major indices such as the S&P 500, NASDAQ, and Dow Jones Industrial Average. . The dataset spans approximately 26 years, from 1998 to 2022, and consists of around 7000 daily records for each index. The data is constructed by the following features: date, open, close, high, and low, to provide an overview of the index performances.
 
-location: https://pypi.org/project/yfinance/
+:triangular_flag_on_post: location: https://pypi.org/project/yfinance/
 
-Format: CSV
+:card_index: Format: CSV
 
-Access Mehtod: API
+:key: Access Mehtod: API
 
 **Data Source: St. Louis FRED API**
 The St. Louis Federal Reserve provides economic data through its FRED API, a widely used source for accessing economic statistics. Integrated easily with Python, it offers vast data, including the Federal Funds Rate and various other securities. For our project, the data extracted spans from 1998 to 2023, primarily focusing on the Federal Funds Rate data. This dataset allows for an in-depth exploration of monetary policy impacts over this time frame, containing daily and monthly records that offer insights into the economic conditions and policy decisions.
 
-location: https://fred.stlouisfed.org/docs/api/fred/
+:triangular_flag_on_post: location: https://fred.stlouisfed.org/docs/api/fred/
 
-Format: JSON
+:card_index: Format: JSON
 
-Access Mehtod: API
+:key: Access Mehtod: API
 
 ## Environment
 Though it is collaborative project with different versions of Python environment used, we recommend using Python 3.8.12 or later versions. To run .ipynb(Jupyter Notebook), you would need Jupyter installed in your Python environment.
