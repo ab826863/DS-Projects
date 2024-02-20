@@ -1,2 +1,2 @@
 # DS-Projects
-Data Science Projects
+A collection of my personal Data Science Projects
