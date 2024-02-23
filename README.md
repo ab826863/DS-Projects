@@ -1,2 +1,2 @@
 # DS-Projects
-A collection of my personal Data Science Projects
+This repository is created to collect my personal Data Science Projects
