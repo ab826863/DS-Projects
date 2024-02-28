@@ -1,6 +1,6 @@
 # My Data Science Learning Journey & Projects
 
-# Why This Repository?
+## Why This Repository?
 I have created this repository as a logbook that tracks my learning journey of data science and helps me consolidate my understanding of complex concepts. This repository also serves as my proforlio that highlights my progress and the skills I have acquired. 
 
 ## Explore My Work
@@ -12,7 +12,7 @@ Project Summaries: Quick overviews that highlight the objectives, project summar
 
 Notebooks: Data exploration and analysis with comprehensive Jupyter notebooks, complete with codes and interpretations of the respective project or coursework.
 
-# Skills Demonstrated
+## Skills Demonstrated
 1. Data collections
 2. Data Cleaning and Manipulation
 3. Data Visualization
