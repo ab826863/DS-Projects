@@ -28,7 +28,7 @@ Bar Charts for Comparative Analysis: This technique involves plotting both the o
 
 Histogram with T-Distribution Overlay: To assess the distribution of grades, histograms are used alongside a t-distribution line. This approach aids in visualizing the central tendency and variability of the data.
 
-Quantile-Quantile (QQ) Plots: QQ plots compare the distribution of student grades against a normal distribution. This visualization helps visually identify deviations from normality as well as examines the normal distribution assumptions required for statistical modeling, 
+Quantile-Quantile (QQ) Plots: QQ plots compare the distribution of student grades against a normal distribution. This visualization helps visually identify deviations from normality as well as examines the normal distribution assumptions required for statistical modeling.
 
 **3. Heatmap with Folium**
 
