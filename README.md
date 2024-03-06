@@ -20,7 +20,7 @@ Notebooks: Data exploration and analysis with comprehensive Jupyter notebooks, c
 5. Machine Learning Implementation
 6. Model Evaluation
 
-# Project Overview
+## Project Overview
 **Monetary Economics and Baseball EDA**
 
 In this milestone project, my teammate and I investigated the impact of various economic factors on the financial decisions of baseball teams and how these decisions affect their performance. Specifically, our objective is to perform an EDA on the relationships between federal interest rates, major stock market indices, baseball teams' payroll spending and their hitting, pitching, and overall performance metrics
