@@ -20,7 +20,7 @@ Amazon review data retrieved from Stanford Network Analysis Project
 To install this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone [repository link]
+git clone [https://github.com/jialihuang826/DS-Projects.git]
 cd NLP_Amazon_Review_Classifier
 
 ```
