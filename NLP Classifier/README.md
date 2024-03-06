@@ -30,3 +30,6 @@ cd NLP_Amazon_Review_Classifier
 This project is part of my personal journey to explore and learn about Natural Language Processing (NLP) tools and techniques. Currently, I am engaged in NLP coursework and actively expanding my knowledge in the field of NLP and Large Language Model (LLM). 
 
 The NLP Amazon Review Classifier is a practical application of the concepts and skills I'm acquiring. I am excited to further explore the capabilities of LLMs through this project and future projects. I am planning to revisit this project as I garner more in-depth knowledge of NLP and LLM.
+
+# Side Notes:
+Saved model has been removed due to my LFS exceeding limit. 
